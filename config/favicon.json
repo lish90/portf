@@ -1,5 +1,5 @@
 {
-    "master_picture": "TODO: Path to your master picture",
+    "master_picture": "app/assets/images/breakfast_girl.png",
     "favicon_design": {
         "ios": {
             "picture_aspect": "no_change",
